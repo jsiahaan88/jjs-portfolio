@@ -1,9 +1,9 @@
 # Biostatistician
 
-## Education
-- **PhD(c), Healthcare Management and Policy | University of Texas Health Science Center (Expected May 2025)**								       		
-- **MS, Biostatistics	| University of Texas Health Science Center (May 2021)**	 			        		
-- **BS, Biology | University of Houston (May 2019)**
+# Education
+**PhD(c), Healthcare Management and Policy | University of Texas Health Science Center (Expected May 2025)**								       		
+**MS, Biostatistics	| University of Texas Health Science Center (May 2021)**	 			        		
+**BS, Biology | University of Houston (May 2019)**
 
 ## Work Experience
 **Biostatistician | UT Health, Orthopedic Surgery (Feb 2022 - Present)**
