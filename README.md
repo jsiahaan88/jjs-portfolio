@@ -1,9 +1,9 @@
 # Jacob Siahaan, PhD(c)
 
 ## Education
-- PhD(c), Healthcare Management and Policy | University of Texas Health Science Center, School of Public Health (_Expected May 2025_)								       		
-- MS, Biostatistics	| University of Texas Health Science Center, School of Public Health  (_May 2021_)	 			        		
-- BS, Biology | University of Houston (_May 2019_)
+PhD(c), Healthcare Management and Policy | University of Texas Health Science Center (_Expected May 2025_)								       		
+MS, Biostatistics	| University of Texas Health Science Center (_May 2021_)	 			        		
+BS, Biology | University of Houston (_May 2019_)
 
 ## Work Experience
 **Biostatistician | UT Health, Orthopedic Surgery (Feb 2022 - Present)**
