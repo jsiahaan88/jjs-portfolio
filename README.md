@@ -2,8 +2,8 @@
 Experienced data analyst with 5 years of experience in the field of clinical research and healthcare. Proficient in leveraging data science techniques in combination with study designs and research methodologies. 
 
 ## Profiles
-[ResearchGate](researchgate.net/profile/Jacob-Siahaan)
-[LinkedIn](linkedin.com/in/jsiahaan)
+- [ResearchGate](researchgate.net/profile/Jacob-Siahaan)
+- [LinkedIn](linkedin.com/in/jsiahaan)
 
 ## Skills
 - **Programming:** Python (NumPy, pandas, Scikit-learn, Keras), R (dplyr, tidyverse, caret), SQL, STATA, SAS
