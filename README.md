@@ -19,17 +19,17 @@ Experienced data analyst with 5 years of experience in the field of clinical res
 - Ensures superior data quality and availability by supervising the RedCap registry across numerous single and multi-center clinical databases.
 
 ## Education
-- PhD(c), Healthcare Management and Policy | University of Texas Health Science Center (_Expected May 2025_)
-- MS, Biostatistics	| University of Texas Health Science Center (_May 2021_)	 			        		
-- BS, Biology | University of Houston (_May 2019_)
+- PhD(c), Healthcare Management and Policy | University of Texas Health Science Center (Expected May 2025)
+- MS, Biostatistics	| University of Texas Health Science Center (May 2021)	 			        		
+- BS, Biology | University of Houston (May 2019)
 
 ## Machine Learning Projects
 
 ## Publications
 
 ## Past Roles
-- Clinical Research Coordinator | HCA Healthcare, Gulf Coast Vascular (Aug 2020 - Feb 2022)
-Conducted statistical analyses to evaluate and enhance effectiveness of various vascular surgery treatments. Managed data collection and research regulation procedures for single and multi-center studies, resulting in improved efficiency and accuracy.
+**Clinical Research Coordinator | HCA Healthcare, Gulf Coast Vascular (Aug 2020 - Feb 2022)**
+- Conducted statistical analyses to evaluate and enhance effectiveness of various vascular surgery treatments. Managed data collection and research regulation procedures for single and multi-center studies, resulting in improved efficiency and accuracy.
 
-- Research Technician | Houston Methodist Hospital, Center for Outcomes Research (July 2019 - June 2021)
-Analyzed, cleaned, and collected data for studies investigating physician burnout and health outcomes of transplantation patients, resulting in the development of effective interventions.
+**Research Technician | Houston Methodist Hospital, Center for Outcomes Research (July 2019 - June 2021)**
+- Analyzed, cleaned, and collected data for studies investigating physician burnout and health outcomes of transplantation patients, resulting in the development of effective interventions.
